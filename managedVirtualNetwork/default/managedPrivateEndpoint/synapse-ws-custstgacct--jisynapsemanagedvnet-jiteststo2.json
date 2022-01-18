@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--jisynapsemanagedvnet-jiteststo2",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/315148b7-f89c-4223-adae-8b5c0f00bb92/resourceGroups/jiyrg1/providers/Microsoft.Storage/storageAccounts/jiteststo2",
+		"groupId": "dfs"
+	}
+}

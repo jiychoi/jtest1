@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--jisynapsemanagedvnet",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/315148b7-f89c-4223-adae-8b5c0f00bb92/resourceGroups/jiyrg1/providers/Microsoft.Synapse/workspaces/jisynapsemanagedvnet",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"jisynapsemanagedvnet-ondemand.860fec9b-4b92-4e8c-aba7-8d19722a3489.sql.azuresynapse.net"
+		]
+	}
+}
