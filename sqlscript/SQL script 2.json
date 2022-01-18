@@ -1,8 +1,8 @@
 {
-	"name": "SQL script 1",
+	"name": "SQL script 2",
 	"properties": {
 		"content": {
-			"query": "create table t1(id int, name nvarchar(10), id2 int)",
+			"query": "asdasd",
 			"metadata": {
 				"language": "sql"
 			},
