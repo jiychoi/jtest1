@@ -5,6 +5,9 @@
 		"workspaceName": {
 			"value": "jisynapsemanagedvnet"
 		},
+		"AzureSqlDatabase1_connectionString": {
+			"value": ""
+		},
 		"jisynapsemanagedvnet-WorkspaceDefaultSqlServer_connectionString": {
 			"value": ""
 		},
